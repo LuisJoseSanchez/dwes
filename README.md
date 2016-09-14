@@ -10,8 +10,8 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 [Presentacion de 2º DAW](https://rawgit.com/LuisJoseSanchez/presentacion-daw2/master/index.html)
 
-![Git y GitHub - Guía de Supervivencia](https://github.com/LuisJoseSanchez/dwes/blob/master/gitygithub200.jpg
-)
+<a href="https://leanpub.com/gitygithub/">![Git y GitHub - Guía de Supervivencia](https://github.com/LuisJoseSanchez/dwes/blob/master/gitygithub200.jpg
+)</a>
 
 [Git y GitHub - Guía de Supervivencia](https://leanpub.com/gitygithub/)
 
