@@ -20,7 +20,7 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 ## Bibliografía
 
-<a href="https://leanpub.com/gitygithub/">![Git y GitHub - Guía de Supervivencia](https://github.com/LuisJoseSanchez/dwes/blob/master/gitygithub200.jpg
+<a href="https://leanpub.com/gitygithub/">![Git y GitHub - Guía de Supervivencia](https://github.com/LuisJoseSanchez/dwes/blob/master/gitygithub200v2.jpg
 )</a>
 
 [Git y GitHub - Guía de Supervivencia](https://leanpub.com/gitygithub/)
