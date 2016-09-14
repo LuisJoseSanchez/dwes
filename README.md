@@ -62,5 +62,3 @@ DWEC: Desarrollo Web en Entorno Cliente. Sergio Banderas.
 ## Enlaces de interés
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
-
-<small>Si este *repo* te resulta útil, dale una estrella ¡Gracias!</small>
