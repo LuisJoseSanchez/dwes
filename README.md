@@ -24,4 +24,4 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
 
-<small>Si este *repo* te resulta útil, dale una estrella ¡Gracias!</small>
+--Si este *repo* te resulta útil, dale una estrella ¡Gracias!--
