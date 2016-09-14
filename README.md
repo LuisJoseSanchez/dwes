@@ -7,3 +7,6 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 [Calendario del curso escolar 2016/2017 para Málaga capital](Malaga1617_calendario.pdf)
 
 [Normas de clase y funcionamiento del Ciclo de DAW en el PTA](normas_y_funcionamiento_daw.pdf)
+
+[Presentacion de 2º DAW](https://rawgit.com/LuisJoseSanchez/presentacion-daw2/master/index.html)
+
