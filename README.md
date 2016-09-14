@@ -30,7 +30,7 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 | HLC   | DWES   | INT       | DAW    | DWEC    |
 | HLC   | DWES   | INT       | DAW    | DWEC    |
 | HLC   | DWES   | INT       | DAW    | DWEC    |
-[Horario de 2º DAW]
+
 
 EIE: Empresa e Iniciativa Emprendedora. Isabel Gregory.
 
