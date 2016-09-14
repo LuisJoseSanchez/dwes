@@ -30,12 +30,18 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 | HLC   | DWES   | INT       | DAW    | DWEC    |
 | HLC   | DWES   | INT       | DAW    | DWEC    |
 | HLC   | DWES   | INT       | DAW    | DWEC    |
+[Horario de 2º DAW]
 
 EIE: Empresa e Iniciativa Emprendedora. Isabel Gregory.
+
 HLC: Horas de Libre Configuración. Sergio Banderas.
+
 INT: Diseño de Interfaces Web. Moisés Martínez.
+
 DWES: Desarrollo Web en Entorno Servidor. Luis José Sánchez.
+
 DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
+
 DWEC: Desarrollo Web en Entorno Cliente. Sergio Banderas.
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
