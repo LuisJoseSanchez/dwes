@@ -15,3 +15,13 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 [Git y GitHub - Guía de Supervivencia](https://leanpub.com/gitygithub/)
 
+<a href="https://leanpub.com/aprendephpconejercicios">![Aprende PHP con Ejercicios](https://github.com/LuisJoseSanchez/dwes/blob/master/aprendephp200.jpg
+)</a>
+
+[Aprende PHP con Ejercicios](https://leanpub.com/aprendephpconejercicios)
+
+[Perfiles de GitHub de alumnos de DAW de la promoción 2015 - 2017](https://github.com/LuisJoseSanchez/github-alumnos-daw-1517)
+
+[IES Campanillas (web oficial)](http://iescampanillas.com/)
+
+<small>Si este *repo* te resulta útil, dale una estrella ¡Gracias!</small>
