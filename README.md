@@ -22,6 +22,22 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 [Perfiles de GitHub de alumnos de DAW de la promoción 2015 - 2017](https://github.com/LuisJoseSanchez/github-alumnos-daw-1517)
 
+| Lunes | Martes | Miércoles | Jueves | Viernes |
+| :---: | :---:  |   :---:   | :---:  |  :---:  |
+| EIE   | INT    | DWEC      | DWES   | DWES    |
+| EIE   | INT    | DWEC      | DWES   | DWES    |
+| EIE   | INT    | DWEC      | DWES   | DWES    |
+| HLC   | DWES   | INT       | DAW    | DWEC    |
+| HLC   | DWES   | INT       | DAW    | DWEC    |
+| HLC   | DWES   | INT       | DAW    | DWEC    |
+
+EIE: Empresa e Iniciativa Emprendedora. Isabel Gregory.
+HLC: Horas de Libre Configuración. Sergio Banderas.
+INT: Diseño de Interfaces Web. Moisés Martínez.
+DWES: Desarrollo Web en Entorno Servidor. Luis José Sánchez.
+DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
+DWEC: Desarrollo Web en Entorno Cliente. Sergio Banderas.
+
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
 
 <small>Si este *repo* te resulta útil, dale una estrella ¡Gracias!</small>
