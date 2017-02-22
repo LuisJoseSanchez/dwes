@@ -31,11 +31,20 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 [Aprende PHP con Ejercicios](https://leanpub.com/aprendephpconejercicios)
 
+
+## NodeJS
+
+![NodeJS](https://github.com/LuisJoseSanchez/dwes/blob/master/nodejs.png)
+
+[Iniciación a NodeJS con ejemplos básicos](https://github.com/LuisJoseSanchez/nodejs-iniciacion)
+
+## MongoDB
+
 <a href="https://github.com/LuisJoseSanchez/mongodb">![MongoDB]
 (https://github.com/LuisJoseSanchez/dwes/blob/master/mongodb.png
 )</a>
 
-[MongoDB](https://github.com/LuisJoseSanchez/mongodb)
+[MongoDB - Instalación y primeros pasos](https://github.com/LuisJoseSanchez/mongodb)
 
 ## Perfiles de GitHub de alumnos
 
