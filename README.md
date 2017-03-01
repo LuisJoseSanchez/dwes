@@ -38,6 +38,14 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 [Iniciación a NodeJS con ejemplos básicos](https://github.com/LuisJoseSanchez/nodejs-iniciacion)
 
+## NodeJS, Express y Jade (Pug)
+
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/nodejs.png" alt="NodeJS" width="150px">
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/express.png" alt="Express" width="150px">
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/jade.png" alt="Jade" width="150px">
+
+[NodeJS, Express y Jade (Pug). Ejemplos básicos.](https://github.com/LuisJoseSanchez/nodejs-express-jade)
+
 ## MongoDB
 
 <a href="https://github.com/LuisJoseSanchez/mongodb">![MongoDB]
