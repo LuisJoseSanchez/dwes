@@ -34,7 +34,7 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 ## NodeJS
 
-![NodeJS](https://github.com/LuisJoseSanchez/dwes/blob/master/nodejs.png)
+![NodeJS](https://github.com/LuisJoseSanchez/dwes/blob/master/nodejs.png, width="150px")
 
 [Iniciación a NodeJS con ejemplos básicos](https://github.com/LuisJoseSanchez/nodejs-iniciacion)
 
