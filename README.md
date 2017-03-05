@@ -54,6 +54,15 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 [MongoDB - Instalación y primeros pasos](https://github.com/LuisJoseSanchez/mongodb)
 
+## MongoDB, NodeJS, Express y Jade (Pug)
+
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/mongodb.png" alt="MongoDB" width="100px">
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/nodejs.png" alt="NodeJS" width="100px">
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/express.png" alt="Express" width="100px">
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/jade.png" alt="Jade" width="100px">
+
+[Acceso a una BBDD MongoDB desde NodeJS con Express y Jade (Pug)](https://github.com/LuisJoseSanchez/nodejs-mongodb-express-jade)
+
 ## Perfiles de GitHub de alumnos
 
 [Perfiles de GitHub de alumnos de DAW de la promoción 2015 - 2017](https://github.com/LuisJoseSanchez/github-alumnos-daw-1517)
