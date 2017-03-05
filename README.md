@@ -56,10 +56,10 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 ## MongoDB, NodeJS, Express y Jade (Pug)
 
-<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/mongodb.png" alt="MongoDB" width="100px">
-<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/nodejs.png" alt="NodeJS" width="100px">
-<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/express.png" alt="Express" width="100px">
-<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/jade.png" alt="Jade" width="100px">
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/mongodb.png" alt="MongoDB" width="120px">
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/nodejs.png" alt="NodeJS" width="120px">
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/express.png" alt="Express" width="120px">
+<img src="https://github.com/LuisJoseSanchez/dwes/blob/master/jade.png" alt="Jade" width="120px">
 
 [Acceso a una BBDD MongoDB desde NodeJS con Express y Jade (Pug)](https://github.com/LuisJoseSanchez/nodejs-mongodb-express-jade)
 
