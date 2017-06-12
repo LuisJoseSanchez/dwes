@@ -14,7 +14,7 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 [Normas de clase y funcionamiento del Ciclo de DAW en el PTA](normas_y_funcionamiento_daw.pdf)
 
-##Presentacion de 2º DAW
+## Presentacion de 2º DAW
 
 [Presentacion de 2º DAW](https://rawgit.com/LuisJoseSanchez/presentacion-daw2/master/index.html)
 
