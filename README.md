@@ -46,9 +46,7 @@ Este documento es la guía de la asignatura **DWES** (Desarrollo Web en Entorno 
 
 ## MongoDB
 
-<a href="https://github.com/LuisJoseSanchez/mongodb">![MongoDB]
-(https://github.com/LuisJoseSanchez/dwes/blob/master/mongodb.png
-)</a>
+<a href="https://github.com/LuisJoseSanchez/mongodb"><img src="https://github.com/LuisJoseSanchez/dwes/blob/master/mongodb.png"></a>
 
 [MongoDB - Instalación y primeros pasos](https://github.com/LuisJoseSanchez/mongodb)
 
